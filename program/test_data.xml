@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<corporate name="YanneLabs">
+    <department name="NextGenerationService">
+        <figures type="sales" value="100000"/>
+        <figures type="inventory" value="100"/>
+        <figures type="labor" value="4000"/>
+    </department>
+    <department name="Ubiquitous Terminal">
+        <figures type="sales" value="10000000"/>
+        <figures type="inventory" value="10000"/>
+        <figures type="labor" value="10000"/>
+    </department>
+    <department name="NorthEast">
+        <figures type="sales" value="500000"/>
+        <figures type="inventory" value="100000"/>
+        <figures type="labor" value="30000"/>
+    </department>
+</corporate>
