@@ -2,7 +2,7 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="Xercess_Test"
+	Name="Xerces_Test"
 	ProjectGUID="{E39A49B8-869C-4629-A269-32EC25D1DB19}"
 	RootNamespace="Xercess_Test"
 	Keyword="Win32Proj"
@@ -18,7 +18,7 @@
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
-			OutputDirectory="../bin"
+			OutputDirectory="../program"
 			IntermediateDirectory="$(ConfigurationName)"
 			ConfigurationType="1"
 			CharacterSet="1"
@@ -170,6 +170,14 @@
 	</References>
 	<Files>
 		<File
+			RelativePath=".\MyHandler.cpp"
+			>
+		</File>
+		<File
+			RelativePath=".\MyHandler.h"
+			>
+		</File>
+		<File
 			RelativePath="..\src\stdafx.cpp"
 			>
 			<FileConfiguration
@@ -190,7 +198,7 @@
 			>
 		</File>
 		<File
-			RelativePath="..\src\Xercess_Test.cpp"
+			RelativePath="..\src\Xerces_Test.cpp"
 			>
 		</File>
 	</Files>
