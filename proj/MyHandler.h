@@ -7,5 +7,7 @@ class MyHandler //: public DefaultHandler
 {
 public:
 	MyHandler(void);
+
+
 	~MyHandler(void);
 };
