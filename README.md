@@ -1,2 +1,3 @@
+ï»¿
+Xercesë¥¼ ì´ìš”í•˜ì—¬ SAX Parser Testë¥¼ í•©ë‹ˆë‹¤.
 
-Xerces¸¦ ÀÌ¿äÇÏ¿© SAX Parser Test¸¦ ÇÕ´Ï´Ù.
